@@ -42,9 +42,9 @@ $ python setup.py install
 
 ## AUTHORS
 
-Mike Ryan - Patch for pyhton2 and archlinux
-Islam Amer (phaeron)<iamer@open-craft.com> - Maintainer and lead developer
-Kareem Kenawy <thesamo@gmail.com> - WNCK code and reader.
+Mike Ryan: Patch for pyhton2 and archlinux
+Islam Amer (phaeron)<iamer@open-craft.com>: Maintainer and lead developer
+Kareem Kenawy <thesamo@gmail.com>: WNCK code and reader.
 
 Thanks to CVirus for the systray code.
 Enlightenment for the icon (window_new.png) under GPL.
