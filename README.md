@@ -1,4 +1,6 @@
-# Getting gdevilspie Running in Arch Linux
+# gdevilspie
+
+## Installing in Arch Linux
 
 This fork fixes the issues with python2 so it will run on Arch and more modern linux/python.
 
@@ -20,8 +22,6 @@ Unfortunately some of this is rather old and unmaintained so you will have to in
 You should be able to run ./gdevilspie now.
 
 
-# Original Readme
-
 ## gDevilspie svn
 
 A user friendly interface to the devilspie window matching daemon, to create rules easily.
@@ -42,9 +42,9 @@ $ python setup.py install
 
 ## AUTHORS
 
-- Mike Ryan: Patch for pyhton2 and archlinux
 - Islam Amer (phaeron)<iamer@open-craft.com>: Maintainer and lead developer
 - Kareem Kenawy <thesamo@gmail.com>: WNCK code and reader.
+- Mike Ryan: Patch for pyhton2 and archlinux
 
 ## Thanks
 
