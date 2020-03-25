@@ -1,4 +1,4 @@
-# Getting gdevilspie Running in Arch
+# Getting gdevilspie Running in Arch Linux
 
 This fork fixes the issues with python2 so it will run on Arch and more modern linux/python.
 
@@ -22,34 +22,31 @@ You should be able to run ./gdevilspie now.
 
 # Original Readme
 
-gDevilspie svn
-==============
+## gDevilspie svn
 
 A user friendly interface to the devilspie window matching daemon, to create rules easily.
 
-INSTALL:
---------
+## Install
 
 you can just run gdevilspie from the tarball if you don't want to install.
 
-"./gdevilspie"
+```
+# ./gdevilspie
+```
 
 or install with setup.py:
 
-"python setup.py install"
+```
+$ python setup.py install
+```
 
+## AUTHORS
 
-AUTHORS:
---------
-Islam Amer (phaeron)<iamer@open-craft.com>
-Maintainer and lead developer
+Mike Ryan - Patch for pyhton2 and archlinux
+Islam Amer (phaeron)<iamer@open-craft.com> - Maintainer and lead developer
+Kareem Kenawy <thesamo@gmail.com> - WNCK code and reader.
 
-
-Kareem Kenawy <thesamo@gmail.com>
-WNCK code and reader.
-
-
-thanks to CVirus for the systray code.
+Thanks to CVirus for the systray code.
 Enlightenment for the icon (window_new.png) under GPL.
 python distrubution IRIX tools for the s-expression parser.
 foosel for the rules wiki
